@@ -41,7 +41,6 @@ export default {
         padding-top: 40px;
 		overflow-x: hidden;
     }
-
 	.v-enter, 
 	.v-leave-to {
 		opacity: 0;
